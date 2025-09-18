@@ -1,3 +1,6 @@
+## 📅 Project Timeline
+Blast Lab was originally developed in **2022** as part of my retro game project work.  
+
 # 🕹️ Blast Lab  
 *A retro bird-shooting aim trainer with multiple levels*  
 
