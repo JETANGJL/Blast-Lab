@@ -15,8 +15,8 @@ Blast Lab is a retro-inspired shooting game designed to sharpen reflexes and aim
 ---
 
 ## 🛠️ Tech Stack  
-- **Language:** C / C++  
-- **Framework:** CProcessing (DigiPen game framework)  
+- **Language:** C
+- **Framework:** CProcessing 
 - **Tools:** Visual Studio  
 - **Assets:** Custom pixel-art sprites & retro sound effects  
 
